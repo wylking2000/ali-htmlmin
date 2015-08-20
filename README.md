@@ -1,4 +1,4 @@
-# ali-htmlmin v0.4.0 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-htmlmin.svg?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-htmlmin) [![Build Status: Windows](https://ci.appveyor.com/api/projects/status/fmp4q531iui753to/branch/master?svg=true)](https://ci.appveyor.com/project/gruntjs/grunt-contrib-htmlmin/branch/master)
+# [ali-htmlmin v0.1.0](https://github.com/wylking2000/ali-htmlmin)
 
 > Minify HTML
 
@@ -10,13 +10,13 @@ This plugin requires Grunt `>=0.4.0`
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install grunt-contrib-htmlmin --save-dev
+npm install ali-htmlmin --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-contrib-htmlmin');
+grunt.loadNpmTasks('ali-htmlmin');
 ```
 
 
@@ -61,18 +61,10 @@ grunt.registerTask('default', ['htmlmin']);
 
 ## Release History
 
- * 2015-02-06   v0.4.0   Updated to `htmlmin` 0.7.0.
- * 2014-05-05   v0.3.0   Drop node.js 0.8 support. Updated to htmlmin 0.6.0.
- * 2014-02-09   v0.2.0   Rewrite task. Drop concat support.
- * 2013-04-06   v0.1.3   Fail target when minify encounters an error.
- * 2013-04-05   v0.1.2   Update html-minifier which fixes IE conditional comments and prefixed HTML elements `<ng-include>` `<ng:include>`.
- * 2013-02-18   v0.1.1   First official release for Grunt 0.4.0.
- * 2013-01-30   v0.1.1rc7   Updating grunt/gruntplugin dependencies to rc7. Changing in-development grunt/gruntplugin dependency versions from tilde version ranges to specific versions.
- * 2013-01-09   v0.1.1rc5   Updating to work with grunt v0.4.0rc5. Switching to this.filesSrc api.
- * 2012-11-01   v0.1.0   Initial release.
+ * 2015-08-20   v0.1.0   Initial release.
 
 ---
 
-Task submitted by [Sindre Sorhus](http://github.com/sindresorhus)
+Task submitted by [Yonglong.WYL]](https://github.com/wylking2000)
 
-*This file was generated on Fri Feb 06 2015 17:15:43.*
+*This file was generated on Thu Aug 20 2015 13:39:25.*
