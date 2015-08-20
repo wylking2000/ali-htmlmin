@@ -1,4 +1,4 @@
-# [ali-htmlmin v0.1.0](https://github.com/wylking2000/ali-htmlmin)
+# [ali-htmlmin v0.1.1](https://github.com/wylking2000/ali-htmlmin)
 
 > Minify HTML
 
@@ -62,7 +62,7 @@ grunt.registerTask('default', ['htmlmin']);
 
 ## Release History
 
- * 2015-08-20   v0.1.0   Initial release.
+ * 2015-08-20   v0.1.1   Initial release.
 
 ---
 

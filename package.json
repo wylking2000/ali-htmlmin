@@ -1,7 +1,7 @@
 {
   "name": "ali-htmlmin",
   "description": "Minify HTML",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "wylking2000",
     "url": "http://gruntjs.com/"
@@ -101,11 +101,11 @@
     "shasum": "",
     "size": 2224,
     "noattachment": false,
-    "key": "ali-htmlmin/-/ali-htmlmin-0.1.0.tgz",
-    "tarball": "http://registry.npm.alibaba-inc.com/ali-htmlmin/download/ali-htmlmin-0.1.0.tgz"
+    "key": "ali-htmlmin/-/ali-htmlmin-0.1.1.tgz",
+    "tarball": "http://registry.npm.alibaba-inc.com/ali-htmlmin/download/ali-htmlmin-0.1.1.tgz"
   },
   "directories": {},
   "publish_time": 1440049925271,
   "_cnpm_publish_time": 1440049925271,
-  "_resolved": "http://registry.npm.alibaba-inc.com/ali-htmlmin/download/ali-htmlmin-0.1.0.tgz"
+  "_resolved": "http://registry.npm.alibaba-inc.com/ali-htmlmin/download/ali-htmlmin-0.1.1.tgz"
 }
