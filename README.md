@@ -39,7 +39,8 @@ grunt.initConfig({
     dist: {                                      // Target
       options: {                                 // Target options
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
+        tplSelector: 'script[type="text/juicer"],script[type="text/template"]' //jQuery-like css selector for compressing templates
       },
       files: {                                   // Dictionary of files
         'dist/index.html': 'src/index.html',     // 'destination': 'source'
