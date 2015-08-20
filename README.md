@@ -65,6 +65,6 @@ grunt.registerTask('default', ['htmlmin']);
 
 ---
 
-Task submitted by [Yonglong.WYL]](https://github.com/wylking2000)
+Task submitted by [Yonglong.WYL](https://github.com/wylking2000)
 
 *This file was generated on Thu Aug 20 2015 13:39:25.*
